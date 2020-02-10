@@ -1,3 +1,3 @@
 ## Welcome to LukeWattsEdu
 
-It's kinda emoty in here for now..
+It's kinda empty in here for now..
